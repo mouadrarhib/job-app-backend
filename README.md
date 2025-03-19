@@ -49,7 +49,7 @@ Explore the API endpoints using Swagger:
 
 ## 🔗 **Frontend Link**
 The frontend for this project is hosted on Vercel. Check out the frontend repository here:  
-👉 [Frontend Repository](https://github.com/your-username/frontend-repo)
+👉 [Frontend Repository](https://github.com/mouadrarhib/job-application-frontend)
 
 ---
 
